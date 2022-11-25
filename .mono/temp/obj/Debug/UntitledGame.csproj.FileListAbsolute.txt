@@ -1,0 +1,9 @@
+E:\FossRyanH-Repos\UntitledGame\.mono\temp\bin\Debug\UntitledGame.dll
+E:\FossRyanH-Repos\UntitledGame\.mono\temp\bin\Debug\UntitledGame.pdb
+E:\FossRyanH-Repos\UntitledGame\.mono\temp\obj\Debug\UntitledGame.csproj.AssemblyReference.cache
+E:\FossRyanH-Repos\UntitledGame\.mono\temp\obj\Debug\UntitledGame.GeneratedMSBuildEditorConfig.editorconfig
+E:\FossRyanH-Repos\UntitledGame\.mono\temp\obj\Debug\UntitledGame.AssemblyInfoInputs.cache
+E:\FossRyanH-Repos\UntitledGame\.mono\temp\obj\Debug\UntitledGame.AssemblyInfo.cs
+E:\FossRyanH-Repos\UntitledGame\.mono\temp\obj\Debug\UntitledGame.csproj.CoreCompileInputs.cache
+E:\FossRyanH-Repos\UntitledGame\.mono\temp\obj\Debug\UntitledGame.dll
+E:\FossRyanH-Repos\UntitledGame\.mono\temp\obj\Debug\UntitledGame.pdb
