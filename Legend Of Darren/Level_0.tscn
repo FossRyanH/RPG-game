@@ -1,0 +1,15 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Legend Of Darren/tilesets/FloorLevelDungeon.tres" type="TileSet" id=1]
+
+[node name="Level_0" type="Node2D"]
+
+[node name="Entities" type="Node2D" parent="."]
+
+[node name="Layers" type="Node2D" parent="."]
+
+[node name="Floor" type="TileMap" parent="Layers"]
+tile_set = ExtResource( 1 )
+cell_size = Vector2( 16, 16 )
+format = 1
+tile_data = PoolIntArray( 0, 54, 0, 1, 54, 0, 2, 54, 0, 3, 54, 0, 4, 54, 0, 65536, 54, 0, 65537, 54, 0, 65538, 54, 0, 65539, 165, 0, 65540, 166, 0, 131072, 54, 0, 131073, 54, 0, 131074, 54, 0, 131075, 183, 0, 131076, 184, 0, 196611, 201, 0, 196612, 202, 0 )

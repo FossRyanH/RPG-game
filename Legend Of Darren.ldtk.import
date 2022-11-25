@@ -1,0 +1,15 @@
+[remap]
+
+importer="ldtk.mapimporter"
+type="Scenes"
+path="res://.import/Legend Of Darren.ldtk-f639d252b154c85c82224b9b299d4539.tscn"
+
+[deps]
+
+files=[ "res://Legend Of Darren/Level_0.tscn", "res://Legend Of Darren/tilesets/FloorLevelDungeon.tres", "res://Legend Of Darren/tilesets/Overworld.tres" ]
+
+source_file="res://Legend Of Darren.ldtk"
+dest_files=[ "res://.import/Legend Of Darren.ldtk-f639d252b154c85c82224b9b299d4539.tscn", "res://Legend Of Darren/Level_0.tscn", "res://Legend Of Darren/tilesets/FloorLevelDungeon.tres", "res://Legend Of Darren/tilesets/Overworld.tres" ]
+
+[params]
+
