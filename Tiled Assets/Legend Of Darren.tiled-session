@@ -1,0 +1,53 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "OverWorld.tmx",
+    "expandedProjectPaths": [
+        "E:/FossRyanH-Repos/RPG game/Assets/Tiles_(animated)",
+        "E:/FossRyanH-Repos/RPG game/Assets",
+        "."
+    ],
+    "fileStates": {
+        "DungeonTiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "OverWorld.tmx": {
+            "scale": 0.75,
+            "selectedLayer": -1,
+            "viewCenter": {
+                "x": 601.3333333333333,
+                "y": 440
+            }
+        },
+        "OverWorld.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "E:/FossRyanH-Repos/RPG game/Assets",
+    "map.height": 45,
+    "map.lastUsedFormat": "tmx",
+    "map.orientation": null,
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 115,
+    "openFiles": [
+        "OverWorld.tsx",
+        "DungeonTiles.tsx",
+        "OverWorld.tmx"
+    ],
+    "project": "Legend Of Darren.tiled-project",
+    "recentFiles": [
+        "OverWorld.tsx",
+        "DungeonTiles.tsx",
+        "OverWorld.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}

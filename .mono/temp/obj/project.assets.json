@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\FossRyanH-Repos\\UntitledGame\\UntitledGame.csproj",
+      "projectUniqueName": "E:\\FossRyanH-Repos\\RPG game\\UntitledGame.csproj",
       "projectName": "UntitledGame",
-      "projectPath": "E:\\FossRyanH-Repos\\UntitledGame\\UntitledGame.csproj",
+      "projectPath": "E:\\FossRyanH-Repos\\RPG game\\UntitledGame.csproj",
       "packagesPath": "C:\\Users\\ryanh\\.nuget\\packages\\",
-      "outputPath": "E:\\FossRyanH-Repos\\UntitledGame\\.mono\\temp\\obj\\",
+      "outputPath": "E:\\FossRyanH-Repos\\RPG game\\.mono\\temp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
