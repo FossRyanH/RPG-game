@@ -355,7 +355,9 @@ __meta__ = {
 speed = 100.0
 
 [node name="WalkSprite" type="Sprite" parent="."]
+position = Vector2( 0, -1 )
 texture = ExtResource( 1 )
+offset = Vector2( 0, -1 )
 hframes = 6
 vframes = 12
 
